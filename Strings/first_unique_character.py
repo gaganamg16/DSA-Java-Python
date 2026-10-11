@@ -14,3 +14,4 @@ if result:
     print("First unique character:", result)
 else:
     print("No unique character found")
+    
